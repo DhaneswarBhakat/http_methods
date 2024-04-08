@@ -60,7 +60,7 @@ class HomePage extends StatelessWidget {
                     name: 'Afzal Ali',
                     qualifications: [
                       Qualification(
-                          degree: 'Ph.D', completionData: '01-01-2028'),
+                          degree: 'MCA', completionData: '01-01-2028'),
                     ],
                   );
 
