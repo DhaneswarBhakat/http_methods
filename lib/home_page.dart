@@ -16,6 +16,9 @@ class HomePage extends StatelessWidget {
           child: Column(
             children: [
               const FlutterLogo(size: 72),
+              Padding(
+                padding: const EdgeInsets.all(70.0),
+              ),
               AppButton(
                 operation: 'GET',
                 operationColor: Colors.lightGreen,
